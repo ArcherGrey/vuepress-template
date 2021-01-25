@@ -1,6 +1,6 @@
 # vuepress-template
 
-vuepress 模板
+> vuepress 模板
 
 ## 目录结构
 
